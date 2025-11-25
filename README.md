@@ -1,9 +1,8 @@
-<h1> 👋 Hi, I’m Arjun </h1>
+<h1> Hi, I’m Arjun </h1>
 
-- Currently interested in operating systems, networks, and cloud infrastructure.
-- Open to pull requests
-- Don't hesitate to reach me at arjun@arjdroid.me
-- I have a blog: [arjdroid.me](https://arjdroid.me)
+- I'm interested in operating systems, networks, and cloud infrastructure.
+- Don't hesitate to reach me at arjun@arjdroid.me.
+- I have a blog – [arjdroid.me](https://arjdroid.me) – which I update occasionally.
 
 <!---
 Arjdroid/Arjdroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
