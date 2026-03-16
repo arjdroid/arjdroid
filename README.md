@@ -1,7 +1,7 @@
 <h1> Hi, I’m Arjun </h1>
 
-- I'm interested (among other things) in systems, networks, and cloud infrastructure.
-- I'm open to pull requests, and can be reached at arjun@arjdroid.me.
+- I'm interested in many things, so if you think I might find something interesting, you're probably right.
+- I'm open to pull requests, and can be reached at arjun at arjdroid.me
 - I have a blog which I update occasionally – [arjdroid.me](https://arjdroid.me)
 
 <!---
